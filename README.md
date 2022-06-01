@@ -12,4 +12,4 @@ List of Ciphers:
   Running Key Cipher
   RSA Cipher
   Sir Arthur Conan Doyle's Cipher from The Adventure of the Dancing Men
-  Riverdale's 'The Blood Hood' Cipher
+  Riverdale's 'The Black Hood' Cipher
