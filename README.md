@@ -1,6 +1,6 @@
 # codeCiphers
 List of Ciphers:
-  Atbash (Encryption + Decryption), 
+  Atbash (Encryption + Decryption), </br>
   Caesar Cipher (Encryption + Decryption),
   Monoalphabetic Substrition,
   Affine Cipher & Modular Arithmetic,
